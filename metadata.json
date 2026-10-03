@@ -1,0 +1,6 @@
+{
+  "name": "AX-100 DAW Synthesizer",
+  "description": "AX-100 v1.0 Z-File AI Device DAW Integration for real-time sound synthesis, automated MIDI mapping, and intelligent file sonification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
